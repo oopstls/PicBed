@@ -1,2 +1,2 @@
 # Image Hosting
-a personal Image Hosting
+a personal image hosting
