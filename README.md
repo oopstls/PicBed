@@ -1,2 +1,2 @@
-# PicBed
-a personal picture bed
+# Image Hosting
+a personal Image Hosting
